@@ -1,0 +1,110 @@
+body{
+    background-color: black;
+     
+    
+}
+header{
+    
+    
+    width: auto;
+    height:auto;
+    background-color: dimgray;
+    border-radius: 9px;
+}
+p.texto {
+    font-size: 100px;
+    font-family:monospace;
+    font-size: 1.2em;
+    color:white;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 9px;
+
+    
+}
+p.texto a{
+    
+    text-decoration-line: none;
+}
+p.texto2 {
+    font-family:monospace;
+    font-size: 1.2em;
+    color:white;
+    text-align: center;
+    margin-top: 40px;
+    width: auto;
+    padding: auto;
+    height: 60px;
+    border-radius: 9px;
+    box-shadow: 10px 10px 5px #888888;
+    text-decoration: none;
+}
+
+
+div.presen{
+    
+    
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 500px;
+    width: 900px;
+    height: 300px;
+    background-color: darkgray;
+    box-shadow: 10px 10px 5px #888888;
+    border: 4px solid yellowgreen;
+    border-radius: 9px;
+    
+   
+    
+    
+}
+
+div.contenedor2{
+    margin-top: 700px;
+    margin-left: 600px;
+    font-family:monospace;
+    width: 300px;
+    height: 100px;
+    background-color: dimgray;
+     text-shadow: 0px 20px 4px #888888;
+    opacity: 0.8;
+    border: 2px solid yellowgreen;
+    border-radius: 9px;
+    position: absolute;
+    text-decoration: none;
+}
+div.contenedor3{
+    margin-top: 700px;
+    margin-left:1000px;
+    font-family:monospace;
+    width: 300px;
+    height: 100px;
+    background-color: dimgray;
+     text-shadow: 0px 20px 4px #888888;
+    opacity: 0.8;
+    border: 2px solid yellowgreen;
+    border-radius: 9px;
+    position: absolute;
+    text-decoration: none;
+   
+}
+div.school{
+    margin-left: 400px;
+    
+}
+ul.lista{
+    margin-left: 90px;
+   position: absolute;
+    display:inline-block;
+    }
+
+li{
+    
+    margin-left: 50px;
+    margin-top: 500px;
+    float: left;
+    border: 2px solid yellowgreen;
+    border-radius: 9px;
+    
+}
+

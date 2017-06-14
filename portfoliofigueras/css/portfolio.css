@@ -1,0 +1,431 @@
+body{
+    background-size: 2500px 2000px;
+    background-color: currentColor;
+    
+}
+
+
+
+header{
+    
+    
+    margin: 20px auto;
+    margin-bottom: 0px;
+    width: 1000px;
+    height: 100px;
+    opacity: 0.8;
+    border: 2px solid yellowgreen;
+    border-radius: 9px;
+
+}
+div#submenu{
+    
+     margin: 5px auto;
+    width: 1000px;
+    height: 450px;
+    background-color: darkgrey;
+    border: 2px solid yellowgreen;
+    border-radius: 9px;
+}
+
+div.contenedor{
+    font-family:monospace;
+    width: 500px;
+    height: 100px;
+    background-color: green;
+    border-radius: 5px;
+    
+}
+/*boto return*/
+div.contenedor2{
+    margin: 90px 250px;
+    font-family:monospace;
+    width: 500px;
+    height: 100px;
+    background-color: dimgray;
+     text-shadow: 0px 20px 4px #888888;
+    opacity: 0.6;
+    border: 2px solid yellowgreen;
+    border-radius: 9px;
+    position: relative;
+    text-decoration: none;
+
+    
+}
+    
+div#modeling{
+    float: left;
+    width: 500px;
+    height: 100px;
+    background-color:rgb(140,140,140);
+    
+    
+}
+div#sculp{
+    
+    float: left;
+    width: 500px;
+    height: 100px;
+    background-color:rgb(180,180,180);
+    
+    
+    
+}
+p.texto{
+    margin: 0px,0px;
+    font-size: 1.5em;
+    color:white;
+    text-align: center;
+    padding-top: 5px;
+
+}
+#textopor{
+    position: absolute;
+    margin-top: 130px;
+    margin-left:110px;
+    font-family:monospace;
+    background-color: dimgray;
+     text-shadow: 0px 20px 4px #888888;
+    opacity: 0.6;
+    border: 2px solid yellowgreen;
+    border-radius: 9px;
+     color: greenyellow;
+}
+#textopor1{
+    position: absolute;
+       margin-top: 130px;
+      margin-left:350px;
+    font-family:monospace;
+    background-color: dimgray;
+     text-shadow: 0px 20px 4px #888888;
+    opacity: 0.6;
+    border: 2px solid yellowgreen;
+    border-radius: 9px;
+     color: greenyellow;
+}
+#textopor2{
+    position: absolute;
+      margin-top: 130px;
+    margin-left:585px;
+    font-family:monospace;
+    background-color: dimgray;
+     text-shadow: 0px 20px 4px #888888;
+    opacity: 0.6;
+    border: 2px solid yellowgreen;
+    border-radius: 9px;
+     color: greenyellow;
+}
+#textopor3{
+    position: absolute;
+     margin-top: 130px;
+    margin-left:830px;
+    font-family:monospace;
+  
+    background-color: dimgray;
+     text-shadow: 0px 20px 4px #888888;
+    opacity: 0.6;
+    border: 2px solid yellowgreen;
+    border-radius: 9px;
+     color: greenyellow;
+}
+#textopor4{
+    position: absolute;
+      margin-top: 325px;
+    margin-left:110px;
+    font-family:monospace;
+   
+    background-color: dimgray;
+     text-shadow: 0px 20px 4px #888888;
+    opacity: 0.6;
+    border: 2px solid yellowgreen;
+    border-radius: 9px;
+     color: greenyellow;
+}
+#textopor5{
+    position: absolute;
+    margin-top: 325px;
+    margin-left:360px;
+    font-family:monospace;
+  
+    background-color: dimgray;
+     text-shadow: 0px 20px 4px #888888;
+    opacity: 0.6;
+    border: 2px solid yellowgreen;
+    border-radius: 9px;
+     color: greenyellow;
+}
+
+#textopor6{
+    position: absolute;
+        margin-top: 125px;
+    margin-left:587px;
+    font-family:monospace;
+    background-color: dimgray;
+     text-shadow: 0px 20px 4px #888888;
+    opacity: 0.6;
+    border: 2px solid yellowgreen;
+    border-radius: 9px;
+    color: greenyellow;
+}
+
+#textopor7{
+    position: absolute;
+    margin-top: 325px;
+        margin-left:587px;
+    font-family:monospace;
+    background-color: dimgray;
+     text-shadow: 0px 20px 4px #888888;
+    opacity: 0.6;
+    border: 2px solid yellowgreen;
+    border-radius: 9px;
+     color: greenyellow;
+}
+
+/*
+div.contenedor:hover{
+    
+    height: 280px;
+    
+}
+#modeling:hover p.texto{
+    
+    
+    font-size: 2em;
+    
+}
+div.contenedor:onclick p.texto{
+    
+}
+*/
+/* Galeria de imagenes */
+h1{
+    margin-top: 0px;
+    color:greenyellow;
+    font-size: 30px;
+    text-align: center;
+    font-family: monospace;
+    text-shadow: 0px 20px 4px #888888;
+    
+    
+}
+
+/* estilo galeria*/
+
+.galerias{
+    
+    width: 100%;
+    height: 100%;
+
+}
+
+
+.galeria_base1 a{
+
+    margin:0 10px;;
+    text-decoration: none;
+    font-size: 50px;
+    color:white;
+    align-items: center;
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+
+    
+}
+div.lateralderecho_base2{
+    
+       display: block;
+    position: relative;
+    background-color:rgba(180,180,180,.6);  5
+    
+}
+.textoprog{
+    
+      position: absolute;
+   
+    font-family:monospace;
+    background-color: dimgray;
+    text-shadow: 0px 20px 4px #888888;
+    opacity: 0.6;
+    border-radius: 9px;
+     color: greenyellow;
+    font-size: 1.3em;
+    
+    
+}
+#foto1{
+     margin-top:20px;
+    margin-left:25px;
+    width: 230px;
+    height: 140px;
+    float: left;
+    border:3px greenyellow solid;
+    border-radius: 9px;
+}
+#foto2{
+    border:3px greenyellow solid;
+    border-radius: 9px;
+       margin-top:20px;
+    margin-left:5px;
+    width: 230px;
+    height: 140px;
+    float: left;
+    
+}
+#foto3{
+     margin-top:20px;
+    margin-left:5px;
+    width: 230px;
+    height: 140px;
+    float: left;
+    border:3px greenyellow solid;
+    border-radius: 9px;
+    
+}
+
+#foto4{
+    margin-top:20px;
+    margin-left:5px;
+    width: 230px;
+    height: 140px;
+    float: left;
+    border:3px greenyellow solid;
+    border-radius: 9px;
+    
+}
+#foto5{
+      margin-top:60px;
+    margin-left:25px;
+    width: 230px;
+    height: 140px;
+    float: left;
+    border:3px greenyellow solid;
+    border-radius: 9px;
+   
+    
+
+}
+#foto6{
+    margin-top:60px;
+    margin-left:5px;
+    width: 230px;
+    height: 140px;
+    float: left;
+    border:3px greenyellow solid;
+    border-radius: 9px;
+    
+    
+    
+}
+#foto7{
+    
+    width: auto;
+    margin-top:60px;
+    margin-left:5px;
+    width: 230px;
+    height: 120px;
+    float: left;
+    border:3px greenyellow solid;
+    border-radius: 9px;
+    
+    
+    
+}
+    
+
+
+/* toolbar*/
+
+div.lateralderecho_base{
+    display: block;
+    position: relative;
+    margin-top: 40px;
+    margin-left: 200px;
+    width: 550px;
+    height: 60px;
+    background-color:rgba(180,180,180,.6);  
+    border-radius: 9px;
+    
+    
+    
+}
+/*
+div.return{
+    margin-top: 5px;
+    margin-left: 30px;
+    width: 40px;
+    height: 100px;
+    
+}
+*/
+
+div.lateralderecho{
+    display: block;
+    margin-left: 25px;
+    float: left;
+}
+/* imagenes toolbar*/
+
+img.icone{
+    display: block;
+    margin-top: 70px;
+    width: 50px;
+    height: 50px;
+}
+
+#3dstuido{
+    margin-left: 50px;
+    width: 50px;
+    height: 50px;
+    
+}
+#zbrush{
+    
+    width: 50px;
+    height: 50px;
+    
+}
+#mudbox{
+    
+    width: 50px;
+    height: 50px;
+    
+}
+#after{
+    
+    width: 50px;
+    height: 50px;
+    
+}
+#blender{
+    
+    width: 50px;
+    height: 50px;
+    
+}
+#photoshop{
+    
+    width: 50px;
+    height: 50px;
+    
+}
+/* animacionlogos*/
+/* anima. zbrush*/
+img.icone{
+    
+    transition: paddin-top .4s;
+}
+div.lateraldercho:hover{
+    
+    height: 280px;
+    
+}
+div.lateralderecho:hover img.icone{
+    
+    transform: scale(2.4);
+}
+
+*/
